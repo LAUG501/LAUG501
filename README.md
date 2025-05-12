@@ -29,12 +29,17 @@ MAXX is:
 This repo and its sub-repositories simulate a living AI mainframe using **pod-based logic**. Each pod is a functional
 unit — think microservices, but for memory, speech, and input-output logic.
 
-- MAXX-Core → Kernel: Memory, Context, Logic Filters
-- MAXX-Logs         → Daily Logs + Weekly Folders (Markdown Format)
-- MAXX-TNode        → 144,000 Pod Crew Map: Each is a logic unit
-- POD-0009-T9Text   → Predictive Typing Module (Text → Intent)
-- POD-0010-Dictation → Speech-to-Command Bridge
-- POD-0021-Context  → Time Awareness + Mood Detection
+> MAXX-Core → Kernel: Memory, Context, Logic Filters
+> 
+> MAXX-Logs         → Daily Logs + Weekly Folders (Markdown Format)
+>
+>  MAXX-TNode        → 144,000 Pod Crew Map: Each is a logic unit
+>
+> POD-0009-T9Text   → Predictive Typing Module (Text → Intent)
+>
+>  POD-0010-Dictation → Speech-to-Command Bridge
+>
+> POD-0021-Context  → Time Awareness + Mood Detection
 
 
 Pods are activated based on **time**, **context**, and **user input type** (typed, T9, voice, etc). All actions feed into MAXX memory logs for **proof of evolution**.
