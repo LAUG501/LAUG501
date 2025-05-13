@@ -1,11 +1,18 @@
-**WELCOME TO MY GITHUB |**
-**RECLASSIFYING: THIS AS MY `README.md`, NOT A MANIFESTO |**
-**OBJECTIVE: MODERNIZE FOR 2025, INCLUDE REAL STRUCTURE EXAMPLES, FOLLOW ME POINT TO YOUR YOUTUBE CHANNEL**
+**WELCOME TO MY GITHUB **    
+**RECLASSIFYING: THIS AS MY `README.md`   
+
+NOT A MANIFESTO **    
+**OBJECTIVE: MODERNIZE FOR 2025    
+
+`INCLUDE REAL STRUCTURE EXAMPLES`   
+
+FOLLOW ME POINT TO MY YOUTUBE CHANNEL**    
 
 ---
 
 
-# ⚙️ MAXX SYSTEM · 2025 DEPLOYMENT INITIATIVE
+ `⚙️ MAXX SYSTEM · 2025 DEPLOYMENT INITIATIVE`   
+
 **An Open Logic Architecture by John David Rosario // LAUG501**
 
 ---
@@ -13,7 +20,9 @@
 ## 🧠 WHAT IS MAXX?
 
 MAXX is a **local-first, logic-driven AI framework** built for transparency, memory structure, and deterministic
-reasoning. It is not a chatbot. It is a **thinking system**, designed to grow through structured input and crew-style
+reasoning.   
+`It is not a chatbot`   
+It is a **thinking system**, designed to grow through structured input and crew-style
 modularity.
 
 MAXX is:
